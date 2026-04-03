@@ -33,8 +33,6 @@ Tech: React + Tailwind + Supabase
 
 ## 📈 GitHub Stats  
 
-![Tarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarek-Salah-Taha&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Salah-Taha&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tarek-Salah-Taha&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
