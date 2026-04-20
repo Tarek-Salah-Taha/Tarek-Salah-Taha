@@ -25,6 +25,21 @@ Tech: React + Redux Toolkit + Supabase
 A hotel booking app with **search filters, favorites, bookings, and localization**.  
 Tech: Next.js + TypeScript + Supabase  
 
+### 🏢 [LuxEstate](https://lux-estate-sable.vercel.app/)  
+An ultra-premium Real Estate web app offering a **cinematic property browsing experience** with glassmorphism UI.  
+Tech: React + Tailwind CSS + Framer Motion  
+
+
+### 🏥 [Cairo Care Clinic](https://cairo-care-clinic.vercel.app/)  
+A premium healthcare management website featuring **interactive appointment booking** and full EN/AR localization.  
+Tech: React + Tailwind CSS + Framer Motion  
+
+
+### 🛠️ [HomeFix Egypt](https://home-fix-eight-pearl.vercel.app/)  
+A high-end home services booking platform connecting clients with professionals via a **smart booking system**.  
+Tech: React + Vite + Tailwind CSS + Framer Motion  
+
+
 ### 💰 [Expensify](https://github.com/Tarek-Salah-Taha/Expensify)  
 Track daily expenses with categories, filtering, and a responsive UI.  
 Tech: React + Tailwind + Supabase  
